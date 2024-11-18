@@ -1,0 +1,44 @@
+{
+    "dictionary": {
+        "animals": {
+            "ELEMENTARY": [
+                {
+                    "name": "rr",
+                    "hint": ""
+                }
+            ],
+            "MEDIUM": [
+                {
+                    "name": "rrrr",
+                    "hint": ""
+                }
+            ],
+            "ADVANCED": [
+                {
+                    "name": "rrrrr",
+                    "hint": ""
+                }
+            ]
+        },
+        "entertainments": {
+            "ELEMENTARY": [
+                {
+                    "name": "rrrrrrr",
+                    "hint": ""
+                }
+            ],
+            "MEDIUM": [
+                {
+                    "name": "rrrrrrrrrrr",
+                    "hint": ""
+                }
+            ],
+            "ADVANCED": [
+                {
+                    "name": "rrrrrrrrrrrrrrr",
+                    "hint": ""
+                }
+            ]
+        }
+    }
+}

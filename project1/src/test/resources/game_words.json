@@ -1,0 +1,68 @@
+{
+    "dictionary": {
+        "animals": {
+            "ELEMENTARY": [
+                {
+                    "name": "fish",
+                    "hint": "animal that lives in water and has gills for breathing"
+                },
+                {
+                    "name": "bird",
+                    "hint": "animal that has feathers and wings"
+                }
+            ],
+            "MEDIUM": [
+                {
+                    "name": "hamster",
+                    "hint": "small and timid pet"
+                },
+                {
+                    "name": "tortoise",
+                    "hint": "carries its house on the back"
+                }
+            ],
+            "ADVANCED": [
+                {
+                    "name": "mammal",
+                    "hint": "warm-blooded creature that gives birth to live young and feeds them milk"
+                },
+                {
+                    "name": "predator",
+                    "hint": "animal that hunts and eats other animals"
+                }
+            ]
+        },
+        "entertainments": {
+            "ELEMENTARY": [
+                {
+                    "name": "circus",
+                    "hint": "performance with clowns and other entertainers, typically held in a large tent"
+                },
+                {
+                    "name": "cinema",
+                    "hint": "building where movies are shown"
+                }
+            ],
+            "MEDIUM": [
+                {
+                    "name": "carousel",
+                    "hint": "rotating amusement ride with seats that are usually decorated as animals"
+                },
+                {
+                    "name": "attraction",
+                    "hint": "entertainment feature at a fair, amusement park, or other public place"
+                }
+            ],
+            "ADVANCED": [
+                {
+                    "name": "exhibition",
+                    "hint": "public display of works of art, products, or other items"
+                },
+                {
+                    "name": "rollerblading",
+                    "hint": "sport activity in which a person wears inline skates and glides along on wheels"
+                }
+            ]
+        }
+    }
+}
